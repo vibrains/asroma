@@ -1,3 +1,5 @@
+![Alt text](/as-roma-stadium.jpg?raw=true "Roma Stadium")
+
 # webpack
 
 > A Vue.js project
