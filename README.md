@@ -1,6 +1,6 @@
 ![Alt text](/as-roma-stadium.jpg?raw=true "Roma Stadium")
 
-# webpack
+# :soccer: As Roma Style with Vuejs and Webpack
 
 > A Vue.js project
 
