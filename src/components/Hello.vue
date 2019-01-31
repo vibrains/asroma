@@ -50,7 +50,7 @@
     name: 'hello',
     data () {
       return {
-        msg: 'As Roma and Vuejs Style Guide '+ new Date()
+        msg: 'As Roma Roster Card'
       }
     }
   }
@@ -65,7 +65,6 @@
     font-size: 30px;
     line-height: 36px;
   }
-
   ul {
     list-style-type: none;
     padding: 0;
@@ -86,7 +85,7 @@
   .md-theme-default.md-card {
   }
   .md-title {
-    font-weight: 900!important;
+    font-weight: 900;
     color: white;
   }
   .md-subhead {
